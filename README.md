@@ -1,16 +1,15 @@
 ## 🚀 Crypto Algorithm Detector
-      A machine-learning powered system that automatically identifies whether a given text is encrypted, hashed, or plaintext — such as AES, RSA, SHA-256, Caesar Cipher, or unencrypted data.
+A machine-learning powered system that automatically identifies whether a given text is encrypted, hashed, or plaintext — such as AES, RSA, SHA-256, Caesar Cipher, or unencrypted data.
 
 ## 📌 Title of the Project
-      Crypto Algorithm Detector – Machine Learning–Based Cryptographic Classification System
+Crypto Algorithm Detector – Machine Learning–Based Cryptographic Classification System
 
-     A smart and automated cryptographic identification tool that uses machine learning to classify encrypted, hashed, or plain text. The system helps cybersecurity professionals, forensic analysts, and students quickly determine which cryptographic algorithm was used.
+A smart and automated cryptographic identification tool that uses machine learning to classify encrypted, hashed, or plain text. The system helps cybersecurity professionals, forensic analysts, and students quickly determine which cryptographic algorithm was used.
 
 ## 📖 About
-        The Crypto Algorithm Detector is a full-stack project designed to identify the underlying cryptographic algorithm behind a given text sample.
+ The Crypto Algorithm Detector is a full-stack project designed to identify the underlying cryptographic algorithm behind a given text sample.
 In cybersecurity and digital forensics, analysts frequently encounter ciphertext or hashed values without any accompanying metadata. Manual identification is slow, error-prone, and requires expert knowledge.
-
-# This project eliminates those challenges by integrating:
+This project eliminates those challenges by integrating:
       Machine Learning (Random Forest Classifier)
       Statistical Feature Extraction (Entropy, character frequency, randomness)
       Full-stack Web Application (Flask + HTML/CSS/JS)
