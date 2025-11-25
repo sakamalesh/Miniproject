@@ -85,16 +85,13 @@ Below is the architecture workflow of your Crypto Algorithm Detector:
 🖼️ Output
 Output 1 – ML Prediction Interface
 
-(Insert screenshot here)
-Shows the web interface where the user inputs ciphertext and receives the predicted algorithm.
+<img width="1890" height="1035" alt="image" src="https://github.com/user-attachments/assets/dfe24be7-88c9-4f07-a073-139f99c5b4bc" />
 
-Output 2 – Entropy & Feature Calculation
 
-(Insert screenshot here)
-Displays internal feature extraction values such as entropy, frequency distribution, etc.
+Output 2 – Entropy & Feature Calculation & Detection Accuracy:
+<img width="921" height="781" alt="image" src="https://github.com/user-attachments/assets/9c85c522-74a8-49e5-a737-0951474cbcc0" />
 
-Detection Accuracy: 92% – 95%
-(Customize based on your model’s performance)
+
 
 ## 📊 Results and Impact
 
