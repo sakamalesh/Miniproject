@@ -10,43 +10,69 @@ A smart and automated cryptographic identification tool that uses machine learni
  The Crypto Algorithm Detector is a full-stack project designed to identify the underlying cryptographic algorithm behind a given text sample.
 In cybersecurity and digital forensics, analysts frequently encounter ciphertext or hashed values without any accompanying metadata. Manual identification is slow, error-prone, and requires expert knowledge.
 This project eliminates those challenges by integrating:
+
       Machine Learning (Random Forest Classifier)
+      
       Statistical Feature Extraction (Entropy, character frequency, randomness)
+      
       Full-stack Web Application (Flask + HTML/CSS/JS)
+      
       The detector takes any input text and predicts the algorithm used, helping analysts make quicker decisions and enabling students to practically understand cryptographic outputs.
 
 ## ⭐ Features
 
 🔐 Classifies AES, RSA, SHA-256, Caesar Cipher, and Plaintext
+
 🤖 Uses a trained Random Forest Machine Learning model
+
 ⚡ Real-time prediction (< 1 second)
+
 📊 Extracts advanced statistical features (entropy, ASCII distribution, randomness score)
+
 🌐 Frontend–Backend integrated full-stack system
+
 📈 High scalability and extendable to more algorithms
+
 🧩 JSON-based structure for easy API integration
+
 🛠️ Lightweight Flask framework for deployment
 
 ## 🖥️ Requirements
 
 ## Software Requirements
+
 Operating System: Windows 10 / Ubuntu (64-bit recommended)
+
 Programming Language: Python 3.8 or later
+
 Backend Framework: Flask
+
 Machine Learning Libraries:
+
 scikit-learn
+
 NumPy
+
 Pandas
 
 ## Additional Libraries:
+
 hashlib
+
 cryptography (for synthetic data generation)
+
 pickle (for model loading)
+
 Frontend: HTML5, CSS3, JavaScript
+
 IDE: VS Code / PyCharm
 
 ## Hardware Requirements
+
 Processor: Minimum Intel i3 / AMD equivalent
+
 RAM: 4GB (8GB recommended for model training)
+
 Storage: At least 1GB for datasets and logs
 
 ## 🏗️ System Architecture
@@ -74,10 +100,15 @@ Detection Accuracy: 92% – 95%
 
 The Crypto Algorithm Detector significantly improves the speed and accuracy of identifying encryption methods.
 The system:
+
 Enhances cyber-forensic investigations
+
 Helps students learn cryptographic patterns
+
 Supports CTF competitions where fast crypto identification is crucial
+
 Enables automated, reliable, and real-time classification
+
 It also serves as a foundation for building more advanced cybersecurity automation tools.
 
 ## 📚 Articles Published / References
